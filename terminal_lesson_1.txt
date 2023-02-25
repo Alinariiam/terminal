@@ -1,0 +1,6 @@
+cd
+mkdir
+vim
+rm
+pwd
+cat
